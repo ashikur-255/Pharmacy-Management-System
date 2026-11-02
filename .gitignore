@@ -1,0 +1,4 @@
+.agent
+dist
+bin
+node-modules
